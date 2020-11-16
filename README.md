@@ -209,8 +209,7 @@ w3.eth.generateGasPrice() function does not work with an empty chain. You can us
 or one of the node keystore files.
 
 
-5. Send a transaction from the pre-funded address within the wallet to another, then copy the txid into
-MyCrypto's TX Status, and screenshot the successful transaction like so:
+5. Last step is to send a transaction from the pre-funded address within the wallet to another.
 
 
 
@@ -218,7 +217,6 @@ MyCrypto's TX Status, and screenshot the successful transaction like so:
 
 
 
-\
 
 
 
