@@ -86,7 +86,7 @@ Numderive (--numderive) to set number of child keys generated
 When done properly, the final object should look something like this (there are only 3 children each in this image):
 
 
-![derive](screenshots/derive function.png)
+![derive](screenshots/derive-function.png)
 
 
 ## Linking the transaction signing libraries
@@ -163,9 +163,9 @@ For ETH, return w3.eth.sendRawTransaction(signed.rawTransaction)
 
 For BTCTEST, return NetworkAPI.broadcast_tx_testnet(signed)
 
-![privkey](screenshots/prev key function.png)
+![privkey](screenshots/privkey-function.png)
 
-
+![sendtx](screenshots/sendtx-function.png)
 
 ## Send some transactions!
 Now, you should be able to fund these wallets using testnet faucets. Open up a new terminal window inside of wallet,
