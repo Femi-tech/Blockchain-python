@@ -1,5 +1,6 @@
 # Blockchain-python
 
+![coin](screenshots/newtons-coin-cradle.jpg)
 ## Setup
 
 
