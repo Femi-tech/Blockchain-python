@@ -86,7 +86,7 @@ Numderive (--numderive) to set number of child keys generated
 When done properly, the final object should look something like this (there are only 3 children each in this image):
 
 
-
+![derive](screenshots/derive function.png)
 
 
 ## Linking the transaction signing libraries
@@ -163,6 +163,7 @@ For ETH, return w3.eth.sendRawTransaction(signed.rawTransaction)
 
 For BTCTEST, return NetworkAPI.broadcast_tx_testnet(signed)
 
+![privkey](screenshots/prev key function.png)
 
 
 
@@ -210,6 +211,8 @@ or one of the node keystore files.
 
 
 5. Last step is to send a transaction from the pre-funded address within the wallet to another.
+
+![ganache](screenshots/transaction.PNG)
 
 
 
