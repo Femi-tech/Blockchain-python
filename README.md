@@ -211,6 +211,8 @@ or one of the node keystore files.
 
 5. Last step is to send a transaction from the pre-funded address within the wallet to another.
 
+![ganache](Images/transaction.PNG)
+
 
 
 
